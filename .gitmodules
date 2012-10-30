@@ -1,0 +1,3 @@
+[submodule "kernel/raspi-linux"]
+	path = kernel/raspi-linux
+	url = git://github.com/raspberrypi/linux.git
